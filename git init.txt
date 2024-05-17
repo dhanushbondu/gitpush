@@ -1,0 +1,11 @@
+git init
+
+git status
+
+git add -A( for all files) or fir add <file name>
+
+git remote add origin <link>
+
+git commit -m "message"
+
+git push origin master
